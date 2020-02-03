@@ -1,0 +1,2 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+177487898	SALES_RESIDENTIAL	Lot 436	$299,000	2019-11-03 23:57:59	2020-02-01 19:00:01	Swann Ridge - Lot 436	Googong	NSW	2620	-35.44471258	149.22762989	LAND	263325	Agent	Googong Township Realty	Contact Us		0	0			
