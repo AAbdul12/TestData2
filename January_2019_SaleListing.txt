@@ -1,0 +1,4 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+176329735	SALES_RESIDENTIAL	Resort living, Apartment price point.	Offers over $315,000	2019-01-31 03:27:37		278/325 Anketell Street	Greenway	ACT	2900	-35.4215945	149.0725767	UNIT	5405	Agent	Independent Tuggeranong	Lauren Laing	1	1	1	6	0	
+176301407	SALES_RESIDENTIAL	Views of Canberra's iconic locations | 1-bedroom apartment plus study	$330,000	2019-01-30 22:30:19		Elody - 1-bedroom apartments	Denman Prospect	ACT	2611	-35.3025149497355	149.032582627307	APARTMENT	513247	Agent	Independent	Nathan Page	1	1	1	6		['NEW_CONSTRUCTION', 'STUDY']
+175445455	SALES_RESIDENTIAL	ONLY TWO LEFT!	$950,000+	2018-06-28 04:19:12	2019-01-30 22:18:51	8 Aurora Close	Mawson	ACT	2607	-35.3561222	149.0949156	TOWNHOUSE	574769	Agent	Total Property Sales	Peter Baum	3	2	2	6	0	
